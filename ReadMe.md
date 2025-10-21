@@ -16,4 +16,4 @@ Monetize:
 •	Subscription Plans
 •	Freemium Model
 •	Partnerships with Universities
-<img width="468" height="520" alt="image" src="https://github.com/user-attachments/assets/eb949534-e34d-42b9-86d0-cb245c3667ea" />
+
